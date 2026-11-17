@@ -1,29 +1,21 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://marwadijangid-source.github.io/vidyaprism/</loc>
   </url>
-
   <url>
     <loc>https://marwadijangid-source.github.io/vidyaprism/explore.html</loc>
   </url>
-
   <url>
     <loc>https://marwadijangid-source.github.io/vidyaprism/subjects.html</loc>
   </url>
-
   <url>
     <loc>https://marwadijangid-source.github.io/vidyaprism/daily-challenge.html</loc>
   </url>
-
   <url>
     <loc>https://marwadijangid-source.github.io/vidyaprism/about.html</loc>
   </url>
-
   <url>
     <loc>https://marwadijangid-source.github.io/vidyaprism/contact.html</loc>
   </url>
-
 </urlset>
