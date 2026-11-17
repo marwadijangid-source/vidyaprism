@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marwadijangid-source.github.io/vidyaprism/sitemap.xml
